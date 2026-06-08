@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufrutov/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufrutov.s@gmail.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](CV%20Serghei%20Ufrutov.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=ufrutov&style=for-the-badge&color=blue)](https://github.com/ufrutov)
 
 ---
