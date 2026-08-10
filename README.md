@@ -95,5 +95,5 @@ Production mobile apps with authentication, real-time APIs, and CRM integrations
 
 - LinkedIn: [**linkedin.com/in/ufrutov**](https://www.linkedin.com/in/ufrutov/)
 - Email: [**ufrutov.s@gmail.com**](mailto:ufrutov.s@gmail.com)
-- CV: [**CV Serghei Ufrutov.pdf**](CV%20Serghei%20Ufrutov.pdf)
+- CV: [**CV Serghei Ufrutov.pdf**](https://github.com/ufrutov/ufrutov/raw/master/CV%20Serghei%20Ufrutov.pdf)
 - Location: Chisinau, Moldova (GMT+2) - open to remote Senior Full-Stack / AI-integrated roles, EU/US timezones. Looking forward for connecting and cooperating.
